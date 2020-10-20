@@ -1,4 +1,4 @@
-# Histórico de comandos executados
+![happy](https://user-images.githubusercontent.com/63166983/96553350-6b025080-128b-11eb-9e3e-86ac97fd6967.png)
 
 ## Primeiro dia
 
