@@ -1,5 +1,9 @@
 ![happy](https://user-images.githubusercontent.com/63166983/96553350-6b025080-128b-11eb-9e3e-86ac97fd6967.png)
 
+## Desafio do projeto rocktseat Next Level Week
+## Implementação de página web, app mobile e api
+## utilizando Nodejs, Typescript, React e ReactNative.
+
 ## Primeiro dia
 
 > Código na pasta `web`
